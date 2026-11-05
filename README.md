@@ -21,6 +21,17 @@ This repository contains **digitally reconstructed, deskewed, pure-white (#FFFFF
 ├── README.md
 ├── Processing_Report.txt
 ├── All_CLEAN_DIGITAL_PDFS.zip
+├── Complete_Study_Materials.zip
+├── COMBINED/
+│   └── Complete_Bilingual_Study_Book.pdf
+├── MATHS_SOLUTIONS/
+│   └── Maths_Complete_English_Tenglish.pdf
+├── ENGLISH_ONLY/
+│   └── English_Study_Guide.pdf
+├── TENGLISH_ONLY/
+│   └── Tenglish_Study_Guide.pdf
+├── DIGITAL_PDFS/
+│   ├── Chapter_01_ENGLISH_TENGLISH.pdf to Chapter_12_ENGLISH_TENGLISH.pdf
 ├── PDFS/
 │   ├── 01_ap_inter_2nd_year_maths_8marks_CLEAN_DIGITAL.pdf
 │   ├── 02_ap_inter_2nd_year_maths_2marks_1mark_CLEAN_DIGITAL.pdf
@@ -38,7 +49,10 @@ This repository contains **digitally reconstructed, deskewed, pure-white (#FFFFF
     ├── OCR_Report.md
     ├── Reconstruction_Report.md
     ├── Quality_Report.md
-    └── Manual_Review_Pages.md
+    ├── Manual_Review_Pages.md
+    ├── Translation_Report.md
+    ├── Mathematical_Verification_Report.md
+    └── Missing_Content_Report.md
 ```
 
 ---
